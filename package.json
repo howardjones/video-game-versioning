@@ -1,6 +1,6 @@
 {
   "name": "video-game-versioning",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert semantic versions to video game versions",
   "main": "index.js",
   "scripts": {
