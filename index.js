@@ -1,4 +1,4 @@
-module.exports = function version_to_game(basename, version) {
+exports.semver_to_game = function (basename, version) {
     const versions = [
         ['', 'New', 'Super', 'Mega', 'Ultra', 'Virtua', 'Deluxe', '7', 'Final', 'Ultimate'],
         ['', 'Plus', 'Pro', 'Elite', 'X', '64', 'II', 'III', 'IV', 'Alpha', 'Jr', 'Zero'],
