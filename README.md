@@ -6,6 +6,8 @@ twitter conversation with @pobocks (https://twitter.com/pobocks/status/105296771
 
 The versioning is a mish-mash of Street Fighter, classic 80s arcade and 90s cash cow milking.
 
+There is also a demo here: http://howardjones.github.io/playtime/game-versions.html
+
 ## Usage
 
     const gamever = require('@anotherhowie/video-game-versioning');
@@ -18,3 +20,5 @@ The versioning is a mish-mash of Street Fighter, classic 80s arcade and 90s cash
 * It only goes up to major version 9 at the moment. Probably more significant, minor version also only goes to 12.
 
 * There isn't a function to go the other way yet. So you can't check if you have *at least* Super lodash Elite HD.
+
+* npm doesn't yet support this versioning model, so this package has to live with the shame of semver versioning.
