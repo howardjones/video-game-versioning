@@ -1,0 +1,24 @@
+{
+  "name": "video-game-versioning",
+  "version": "0.1.0",
+  "description": "Convert semantic versions to video game versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howardjones/video-game-versioning.git"
+  },
+  "keywords": [
+    "silly",
+    "versioning",
+    "games"
+  ],
+  "author": "Howard Jones <howie@thingy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howardjones/video-game-versioning/issues"
+  },
+  "homepage": "https://github.com/howardjones/video-game-versioning#readme"
+}
